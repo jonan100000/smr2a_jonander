@@ -1,7 +1,7 @@
 <?php
 
-$a=5;
-$b=6;
+$a=7;
+$b=8;
 echo $a+$b.'<br>';
 echo $a-$b.'</br>';
 echo $a*$b.'</br>';
